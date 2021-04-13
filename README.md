@@ -1,1 +1,1 @@
-# k
+K线图，也叫蜡烛图讲解， 访问网址:[http://k.hingtak.com]
